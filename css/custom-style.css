@@ -1,0 +1,76 @@
+footer{
+    background-color: rgb(23, 23, 23) !important;
+}
+/* section{
+    background-color: rgb(236, 236, 236);
+} */
+.c-logo{
+    width: 155px;
+}
+.c-common-orange{
+    background-color: rgb(247, 153, 32) !important;
+}
+.c-common-black{
+    background-color: rgb(23, 23, 23) !important;
+}
+.c-position-r{
+    position: relative;
+}
+.c-header-bg{
+    background: rgb(242, 246, 254) !important
+}
+.c-services .c-service-image{
+    display: flex;
+    justify-content: center;
+}
+.c-services .feature-box{
+    padding: 10px 39px 35px 30px;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+}
+.c-services .c-service-image img{
+    width: 180px;
+}
+.c-services .feature-box:hover{
+    background-color: #f2f6fe !important;
+    color: black !important;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px !important;
+}
+.c-services .feature-box:hover h4{
+    color: black !important;
+}
+.c-read-more{
+    display: flex;
+    cursor: pointer;
+    font-size: 17px;
+}
+.c-read-more .c-read-more-arrow i{
+    font-size: 17px;
+    color: rgb(23, 23, 23);
+    font-size: inherit;
+    padding: 0;
+    width: auto;
+    height: auto;
+}
+.c-read-more:hover {
+    color: rgb(247, 153, 32) !important;
+}
+.c-read-more:hover .c-read-more-arrow i{
+    color: rgb(247, 153, 32) !important;
+}
+.c-read-more .c-read-more-arrow {
+    display:block;
+    margin-left: 5px;
+}
+section{
+    padding-bottom: 50px;
+}
+.bg-custom-oryx{
+    background: #F8FAFE !important;
+}
+.de_testi.de-border blockquote{
+    border: solid 3px rgba(0,0,0,.05);
+}
+.feature-box.style-4 .text{
+    background: #f8fafe;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+}
